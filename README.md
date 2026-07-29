@@ -1,25 +1,42 @@
-# Data Analytics Portfolio
+# 👋 Hi, I'm Abdelhakem Mohamed
 
-Hi, I'm Abdelhakem Mohamed.
+🎓 Information Systems Graduate (GPA: 3.79/4.00)
 
-I am an Information Systems Graduate passionate about Data Analytics and Business Intelligence.
+## About Me
+I am passionate about Data Analytics and Business Intelligence. I enjoy transforming raw data into meaningful insights using Power BI, SQL, Python, and Excel.
 
-## Skills
+## Technical Skills
 - SQL
 - Microsoft SQL Server
+- SQLite
 - Power BI
 - Python
-- Microsoft Excel
+- Excel
+- C#
+- Java
+- C++
 - Data Analysis
-- Business Intelligence
+- Data Visualization
+- DAX
+- Power Query
 
-## Projects
-
+## Graduation Project
 ### Strategic Decision Support Using Big Data Analytics
-- Built interactive Power BI dashboards.
-- Analyzed sales, inventory, HR, and prescription data.
-- Used SQL Server for data management.
-- Created KPIs using DAX.
-- Applied Power Query for data transformation.
 
-More projects will be added soon.
+Developed a Business Intelligence solution using Power BI and SQL Server to support strategic decision-making.
+
+### Key Features
+- Interactive Dashboards
+- Sales Analysis
+- Inventory Analysis
+- HR Analysis
+- KPI Dashboard
+- Data Cleaning
+- ETL using Power Query
+- DAX Measures
+
+## Contact
+
+📧 Email: abdelhakem021@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/abd-elhakem-selim-297101424
